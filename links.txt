@@ -1,0 +1,25 @@
+API Key: 37bd983172fb0f30363c881eebb5c975
+Base URL: https://api.themoviedb.org/3
+
+Individual:
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=37bd983172fb0f30363c881eebb5c975
+
+Now Playing:
+https://api.themoviedb.org/3/movie/now_playing?api_key=37bd983172fb0f30363c881eebb5c975
+
+Popular:
+https://api.themoviedb.org/3/movie/popular?api_key=37bd983172fb0f30363c881eebb5c975
+
+Top Rated:
+https://api.themoviedb.org/3/movie/top_rated?api_key=37bd983172fb0f30363c881eebb5c975
+
+Upcoming: 
+https://api.themoviedb.org/3/movie/upcoming?api_key=37bd983172fb0f30363c881eebb5c975
+
+Search:
+https://api.themoviedb.org/3/search/movie?api_key=37bd983172fb0f30363c881eebb5c975&query={movie_name}
+
+
+
+
+<a href="https://www.freepik.com/free-vector/404-error-lost-space-concept-illustration_20602746.htm#page=3&query=404%20page&position=0&from_view=keyword&track=ais">Image by storyset</a> on Freepik
