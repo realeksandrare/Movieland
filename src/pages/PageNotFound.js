@@ -2,7 +2,6 @@ import { Link } from 'react-router-dom'
 import { useTitle } from '../hooks/useTitle'
 
 import pageNotFound from '../assets/images/pagenotfound.png'
-import { useEffect } from 'react'
 
 export const PageNotFound = () => {
 	useTitle(`Page Not Found`)

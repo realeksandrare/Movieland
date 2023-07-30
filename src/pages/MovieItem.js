@@ -18,7 +18,7 @@ export const MovieItem = () => {
 			setMovie(json)
 		}
 		fetchMovie()
-	}, [])
+	}, [params.id])
 
 	const imdbMovieLink = `http://imdb.com/title/${movie.imdb_id}`
 
